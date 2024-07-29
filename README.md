@@ -1,6 +1,6 @@
 # CytonicMC Discord Bot
 
-The discord bot behind cytonic mc's discord server.
+The discord bot behind CytonicMC's discord server.
 
 Down below is a quick tutorial on how to run the discord bot correctly.
 
