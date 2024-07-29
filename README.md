@@ -2,8 +2,6 @@
 
 The discord bot behind cytonic mc's discord server.
 
----
-
 Down below is a quick tutorial on how to run the discord bot correctly.
 
 # How to push new slash commands:
@@ -14,6 +12,4 @@ Down below is a quick tutorial on how to run the discord bot correctly.
 
 ```node index.js```
 
----
-
-### Any questions? Feel free to contact resplaysit on discord.
+# Any questions? Feel free to contact resplaysit on discord.
